@@ -1,46 +1,51 @@
-# Uber Data Analytics Project Using Power BI
+# 🚖 Uber Data Analytics Project Using Power BI
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Analytics-blue)
+![Excel](https://img.shields.io/badge/Excel-Data%20Processing-green)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+---
 
 ## 📌 Project Overview
-This project focuses on analyzing Uber ride data and building **interactive Power BI dashboards** to extract meaningful insights related to bookings, revenue, customers, drivers, vehicles, and locations.  
-The dashboard helps stakeholders monitor performance, identify trends, and make **data-driven business decisions**.
+This project focuses on analyzing **Uber ride data** and presenting insights through **interactive Power BI dashboards**.  
+It enables stakeholders to monitor bookings, revenue, customer behavior, cancellations, and operational efficiency using data-driven analytics.
 
 ---
 
-## 🎯 Project Objectives
-- Analyze total bookings and lost bookings
-- Track revenue trends across months and vehicle types
-- Study customer and driver behavior
-- Identify cancellation reasons
-- Understand peak hours and high-demand locations
-- Improve operational efficiency using insights
+## 🎯 Objectives
+- Monitor key performance indicators (KPIs)
+- Analyze booking and revenue trends
+- Identify customer and driver cancellation reasons
+- Study peak hours and high-demand locations
+- Evaluate vehicle-wise performance
+- Support data-driven business decisions
 
 ---
 
-## 🛠 Tools & Technologies
-- **Power BI Desktop**
-- **Power Query** (Data Cleaning & Transformation)
-- **DAX** (Measures & Calculations)
-- **Microsoft Excel / CSV**
-- **Git & GitHub**
+## 🛠️ Tools & Technologies
+| Tool | Purpose |
+|------|---------|
+| Power BI Desktop | Dashboard creation |
+| Power Query | Data cleaning & transformation |
+| DAX | Measures & calculations |
+| Microsoft Excel | Dataset handling |
+| Git & GitHub | Version control |
 
 ---
 
-## 🧠 System Approach
-1. Data Collection from structured files (Excel/CSV)
-2. Data Cleaning & Transformation using Power Query
-3. Data Modeling with table relationships
-4. DAX measures for KPIs and metrics
-5. Interactive dashboard development
-6. Insight generation for decision-making
+## 🧠 System Workflow
+Raw Data → Data Cleaning → Data Modeling → DAX Measures → Power BI Dashboards → Business Insights
 
 ---
 
 ## 📊 Dashboards Included
-- **Overview Dashboard** – KPIs, total bookings, revenue, distance
+- **Overview Dashboard** – KPIs, bookings, revenue, distance
 - **Rider Analysis** – Customer behavior & cancellations
-- **Revenue Analysis** – Payment methods, revenue trends
-- **Location Analysis** – Pickup & drop location insights
-- **Vehicle Analysis** – Performance by vehicle type
+- **Revenue Analysis** – Payment methods and revenue trends
+- **Location Analysis** – Pickup and drop location insights
+- **Vehicle Analysis** – Vehicle-wise performance
 
 ---
 
@@ -61,47 +66,53 @@ The dashboard helps stakeholders monitor performance, identify trends, and make 
 ### 🚗 Vehicle Performance
 ![Vehicle Dashboard](Screenshots/vehicle.png)
 
-> 📌 *Note:* Screenshots are taken from Power BI Desktop after final dashboard completion.
-
 ---
 
-## 📁 Dataset Information
+## 📁 Dataset Description
 The dataset contains the following attributes:
-- Booking Status
-- Ride Distance
-- Revenue
-- Payment Method
-- Vehicle Type
-- Pickup & Drop Location
-- Customer & Driver Ratings
-- Cancellation Reasons
+- Booking status (Completed, Cancelled, Incomplete)
+- Trip distance and revenue
+- Vehicle type
+- Payment methods
+- Pickup and drop locations
+- Customer and driver ratings
+- Cancellation reasons
 
-*(Dataset used only for educational and internship purposes.)*
+> ⚠️ The dataset is used only for **educational and internship purposes**.
 
 ---
 
-## 🚀 Results & Insights
-- Identified peak booking hours and high-demand days
+## 📈 Key Insights & Results
+- Identified peak booking hours and busy weekdays
 - Analyzed revenue contribution by vehicle type
 - Discovered major customer and driver cancellation reasons
 - Improved visibility into operational inefficiencies
-- Enabled faster and more accurate decision-making
+- Enabled faster decision-making with interactive dashboards
 
 ---
 
-## 📌 Conclusion
-The project demonstrates how **Power BI can transform raw ride data into actionable insights** through effective visualization and analytics.  
-It highlights the importance of data-driven strategies in improving service quality and business performance.
+## 🏁 Conclusion
+This project demonstrates how **Power BI transforms raw data into actionable insights** through effective data modeling and visualization.  
+It highlights the importance of analytics in improving operational performance and customer experience.
 
 ---
 
 ## 👤 Author
 **Sonu Kumar**  
-📊 Aspiring Data Analyst 
+📊 Aspiring Data Analyst
 
-GitHub: https://github.com/SonuKumarAnalyst
+🔗 GitHub: https://github.com/SonuKumarAnalyst
+
+---
+
+## ⭐ Support
+If you find this project useful:
+- Give this repository a **star**
+- Share your feedback
+- Connect with me on GitHub
 
 ---
 
 ## ⚠️ Disclaimer
 This project is created for **learning, academic, and internship purposes only**.  
+It does not represent real Uber business data.
